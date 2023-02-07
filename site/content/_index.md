@@ -1,7 +1,7 @@
 ---
 title: "Webility Marketing Agency"
 subtitle: Digital Marketing Made Easy
-image: /img/home-jumbotron.jpg
+image: /img/marketing.jpg
 blurb:
     heading: Why Webility?
     text: "Alongside our Google certified core team, our team associates building your marketing campaigns have been doing it successfully for 5-10 years. We know how to get your message to the people that need to see it."
